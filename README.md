@@ -137,7 +137,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 <div align="center">
 
-**Developed by: Osamh Fadelاضل (المبرمج م اسامة فاضل)**
+**Developed by: Osamh Fadel (المبرمج م اسامة فاضل)**
 
 </div>
 
