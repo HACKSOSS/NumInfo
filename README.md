@@ -50,7 +50,7 @@ Here's the complete README in one code block:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anon4You/NumInfo.git
+git clone https://github.com/HACKSOSS/NumInfo.git
 cd NumInfo
 
 # Install dependencies
